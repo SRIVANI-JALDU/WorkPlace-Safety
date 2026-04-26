@@ -1,0 +1,19 @@
+./custom_yolov8l.pt
+./yolov8-world.pt
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Node dependencies and Next.js build output
+frontend/node_modules/
+frontend/.next/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Large model/artifact files
+yolov8l-world.pt
+*.pt

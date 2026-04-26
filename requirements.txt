@@ -1,0 +1,13 @@
+numpy
+opencv-python
+torch
+ultralytics
+configparser
+streamlit
+streamlit_extras
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+pydantic
+python-jose[cryptography]
