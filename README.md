@@ -8,8 +8,8 @@ In industries where safety regulations are crucial, it's important to ensure tha
 
 ## Results
 
-<img src="<img width="1229" height="514" alt="image" src="https://github.com/user-attachments/assets/84392bb6-2387-424c-9034-e31f7cabd5f9" />
-"></img>
+<img width="1229" height="514" alt="image" src="https://github.com/user-attachments/assets/84392bb6-2387-424c-9034-e31f7cabd5f9" />
+</img>
 
 ## Note: 
 I've removed the large model files to reduce the repository size. If you need them, simply rerun the notebook, and they will be automatically downloaded to your current directory.
